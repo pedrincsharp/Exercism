@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEDE08XVUde6pQAgilONuhw3RwjMtr6uuqWsMD6liFwRtc+0++dNWV6+aPpY23FWa4NaXX+6clBZZwl2FFYs/w==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Exercism\\C#\\Exercism\\Exercism\\Exercism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joao_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

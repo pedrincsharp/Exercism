@@ -1,0 +1,12 @@
+D:\GitHub\Exercism\C#\Exercism\Exercism\bin\Debug\net7.0\Exercism.deps.json
+D:\GitHub\Exercism\C#\Exercism\Exercism\bin\Debug\net7.0\Exercism.dll
+D:\GitHub\Exercism\C#\Exercism\Exercism\bin\Debug\net7.0\Exercism.pdb
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.csproj.AssemblyReference.cache
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.AssemblyInfoInputs.cache
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.AssemblyInfo.cs
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.csproj.CoreCompileInputs.cache
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.dll
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\refint\Exercism.dll
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\Exercism.pdb
+D:\GitHub\Exercism\C#\Exercism\Exercism\obj\Debug\net7.0\ref\Exercism.dll

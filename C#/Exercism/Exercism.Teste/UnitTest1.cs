@@ -1,20 +1,18 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
 namespace Exercism.Teste
 {
     [TestClass]
     public class UnitTest1
     {
         [TestMethod]
-        public void SavingsAccount01()
+        public void Bob01()
         {
-            Assert.AreEqual(47, SavingsAccount.YearsBeforeDesiredBalance(100.0m, 125.80m));
+            string resp = Bob.Response("Okay if like my  spacebar  quite a bit?   ");
         }
 
         [TestMethod]
-        public void LogLine01()
+        public void foneNumber()
         {
-            Assert.AreEqual("Operation completed (info)", LogLine.Reformat("[INFO]: Operation completed"));
+            (bool ny, bool fake, string final) tupla =   PhoneNumber.Analyze("631-555-1234");
         }
     }
 }
